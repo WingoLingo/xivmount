@@ -1,5 +1,7 @@
 package main
 
+// This package contains a "wishlist" of all the Extreme and Savage mounts players regularly farm for.
+// It's used to compare against the scraped data in order to determine which mounts are still needed.
 func LoadURLs() []string {
 	return []string{
 	// Horses
@@ -112,5 +114,12 @@ func LoadURLs() []string {
 		"https://lds-img.finalfantasyxiv.com/itemicon/76/763a6d3e9bfb94764eb2f65ffb53108d6041f919.png?n7.05",
 		// P12S
 		"https://lds-img.finalfantasyxiv.com/itemicon/32/32e8c06c3e74bbb0556bed939312744c19789d3f.png?n7.05",
+
+		// M4S
+
+		// M8S
+
+		// M12S
+		
 	}
 }
