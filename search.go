@@ -21,12 +21,12 @@ func SearchCharacter(world, name string) {
 		World := e.ChildText(".entry__world")
 		lsid := cleanID(e.Attr("href"))
 
-		fmt.Println(lsid, FullName, World)
-
+		fmt.Println(lsid, "|", World, "|", FullName)
 	})
 
 	// Start scraping
 	c.Visit(fmt.Sprintf("https://na.finalfantasyxiv.com/lodestone/character/?q=%s&worldname=%s&classjob=&race_tribe=&blog_lang=ja&blog_lang=en&blog_lang=de&blog_lang=fr&order=7", name, world,))
+
 
 	return // lsid, FullName
 }
