@@ -81,19 +81,19 @@ func LoadURLs() []string {
 		"https://lds-img.finalfantasyxiv.com/itemicon/ec/ec4bed15f67129295a4211027292dbc631e17783.png",
 
 	// Wings
-		// 1
+		// Dawntrail EX1
 		"https://lds-img.finalfantasyxiv.com/itemicon/86/86ed3b6e18652430d112de4ee4fc504ea6ec088d.png",
-		// 2
+		// Dawntrail EX2
 		"https://lds-img.finalfantasyxiv.com/itemicon/4d/4d3a9eda7aa3c3817107354d2e74fc07a93d20d5.png",
-		// 3
+		// Dawntrail EX3
+		"https://lds-img.finalfantasyxiv.com/itemicon/ef/ef9cbeb999013e4dcc5922512a0b8b5445cc9d15.png",
+		// Dawntrail EX4
 
-		// 4
+		// Dawntrail EX5
 
-		// 5
+		// Dawntrail EX6
 
-		// 6
-
-		// 7
+		// Dawntrail EX7
 
 
 	// Savage
