@@ -1,6 +1,4 @@
 xivmount is a simple mount tracker for Final Fantasy XIV to check which Extreme/Savage mounts a character is still missing.
-This was created to power a webapp I am developing, but you are free to use this code in your own projects. 
-If you do, I simply ask that you credit me. <3
 
 It has three main commands:
 
